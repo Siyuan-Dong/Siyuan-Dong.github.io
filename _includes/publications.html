@@ -18,7 +18,7 @@
 
   {% for publication in publications.papers %}
   <div class="item">
-    {% if publication.tag == True %}
+    {% if publication.tag %}
     {% if publication.link %}
       <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
     {% else %}
