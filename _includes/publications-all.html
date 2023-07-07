@@ -7,12 +7,9 @@
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
     </span>
-    {{ publications.title }}
+    {{ All Publications }}
   </h2>
 
-  <div class="intro">
-    {{ publications.intro | markdownify }}
-  </div><!--//intro-->
 
   {% for publication in publications.papers %}
   <div class="item">
