@@ -14,6 +14,8 @@
   {% for publication in publications.papers %}
   <div class="item">
     {% if publication.link %}
+      <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
+    {% else %}
       <li class="publication-title">{{ publication.title }}</li>
     {% endif %}
     <div class="publication-authors">{{ publication.authors }}</div>
