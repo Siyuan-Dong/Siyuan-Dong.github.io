@@ -7,7 +7,7 @@
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
     </span>
-    <a href="{{publications.link}}">{{ publications.title1 }}</a>
+    {{ publications.title1 }}
   </h2>
 
   {% if publications.intro %}
@@ -29,6 +29,9 @@
     {% endif %}
   </div><!--//item-->
   {% endfor %}
+  <div class="intro">
+    <a href="./pub.html">More</a>
+  </div><!--//intro-->
 
 </section><!--//section-->
 {% endif %}
