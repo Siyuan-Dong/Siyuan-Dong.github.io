@@ -43,15 +43,13 @@ career-profile:
       Before I start my Ph.D. degree, I received my bachelor degree in Computer Science and Mathematics at Peking University in 2023. 
       
 education:
-    - degree: Ph.D. in Computer Architecture
-      university: School of Computer Science, Peking University
+    - degree: Ph.D. in Computer Science
+      university: Peking University
       time: 2023 - Present
-    - degree: B.Sc. in Computer Science & Technology
-      university: School of Electronic Engineering & Computer Science, Peking University
+    - degree: B.Sc. in Computer Science & Mathematics
+      university: Peking University
       time: 2019 - 2023
-    - degree: B.Sc in Mathematics & Applied Mathematics
-      university: School of Mathematical Science, Peking University
-      time: 2019 - 2023
+
 
 publications:
     title: Publications
