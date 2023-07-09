@@ -44,16 +44,13 @@ career-profile:
       
 education:
     - degree: Ph.D. in Computer Architecture
-      department: School of Computer Science
-      university: Peking University
+      university: School of Computer Science, Peking University
       time: 2023 - Present
     - degree: B.Sc. in Computer Science & Technology
-      department: School of Electronic Engineering & Computer Science
-      university: Peking University
+      university: School of Electronic Engineering & Computer Science, Peking University
       time: 2019 - 2023
     - degree: B.Sc in Mathematics & Applied Mathematics
-      department: School of Mathematical Science
-      university: Peking University
+      university: School of Mathematical Science, Peking University
       time: 2019 - 2023
 
 publications:
