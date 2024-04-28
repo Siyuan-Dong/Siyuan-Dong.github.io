@@ -55,11 +55,38 @@ publications:
     intro: <a href="https://scholar.google.com/citations?hl=en&user=AQpX-lEAAAAJ">Google Scholar</a> 
     # &nbsp; &nbsp; &nbsp; <a href="https://orcid.org/0000-0003-1551-7646">ORCID</a> &nbsp; &nbsp; &nbsp; <a href="https://dblp.org/pid/326/9040.html">DBLP</a> &nbsp; &nbsp; &nbsp; <a href="https://www.semanticscholar.org/author/Jiarui-Guo/2217656137">Sematic Scholar</a>
     papers:
+      - title: "M4: A Framework for Per-Flow Quantile Estimation"
+        tag: True
+        authors: Siyuan Dong, Zhuochen Fan, Tianyu Bai, Tong Yang, Hanyu Xue, Peiqing Chen and Yuhan Wu.
+        conference: "2024 IEEE 40th International Conference on Data Engineering (<b>ICDE '24</b>)."
+        other: <a href="./papers/M4_ICDE24.pdf">[PDF]</a> <a href="https://github.com/M4Framework/M4">[Code]</a>
+
       - title: "Kvsagg: Secure aggregation of distributed key-value sets"
         tag: True
-        authors: Yuhan Wu, <b> Siyuan Dong </b>, Yi Zhou, Yikai Zhao, Fangcheng Fu, Tong Yang, Chaoyue Niu, Fan Wu, Bin Cui
+        authors: Yuhan Wu, <b> Siyuan Dong (Co-first) </b>, Yi Zhou, Yikai Zhao, Fangcheng Fu, Tong Yang, Chaoyue Niu, Fan Wu, and Bin Cui
         conference: "2023 IEEE 39th International Conference on Data Engineering (<b>ICDE '23</b>)."
         other: <a href="./papers/ICDE23_KVSAGG.pdf">[PDF]</a> <a href="https://github.com/KVSAGG/KVSAGG">[Code]</a>
+
+      - title: "MicroscopeSketch: Accurate Sliding Estimation Using Adaptive Zooming"
+        tag: True
+        authors: Yuhan Wu, Shiqi Jiang, <b>Siyuan Dong (Co-first)</b>, Zheng Zhong, Jiale Chen, Yutong Hu, Tong Yang, Steve Uhlig, and Bin Cui.
+        conference: "2023 ACM 29th  Conference on Knowledge Discovery and Data Mining (<b>SIGKDD '23</b>)."
+        other: <a href="./papers/MicroSketch_SIGKDD23.pdf">[PDF]</a> <a href="https://github.com/MicroscopeSketch/MicroscopeSketch">[Code]</a>
+
+      - title: "Unbiased Real-time Traffic Sketching"
+        tag: True
+        authors: Yuhan Wu, Shiqi Jiang, Yifei Xu, <b>Siyuan Dong</b>, Kaicheng Yang, Peiqing Chen, and Tong Yang.
+        conference: "2023 IEEE Transactions on Network Science and Engineering."
+        other: <a href="./papers/UC_sketch_TNSE23.pdf">[PDF]</a> <a href="https://github.com/UnbiasedCleaningSketch/UnbiasedCleaningSketch">[Code]</a>
+
+      - title: "HoppingSketch: More Accurate Temporal Membership Query and Frequency Query"
+        tag: True
+        authors: Zhuochen Fan, Yubo Zhang, <b>Siyuan Dong</b>, Yi Zhou, Fangyi Liu, Tong Yang, Steve Uhlig, and Bin Cui.
+        conference: "2022 IEEE Transactions on Knowledge and Data Engineering."
+        other: <a href="./papers/HoppingSketch_TKDE22.pdf">[PDF]</a> <a href="https://github.com/pkufzc/HoppingSketch">[Code]</a>
+
+      
+      
       
 
 # experiences:
