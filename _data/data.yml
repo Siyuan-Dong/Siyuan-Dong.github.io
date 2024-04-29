@@ -59,7 +59,7 @@ publications:
     papers:
       - title: "M4: A Framework for Per-Flow Quantile Estimation"
         tag: True
-        authors: Siyuan Dong, Zhuochen Fan, Tianyu Bai, Tong Yang, Hanyu Xue, Peiqing Chen and Yuhan Wu.
+        authors: <b>Siyuan Dong</b>, Zhuochen Fan, Tianyu Bai, Tong Yang, Hanyu Xue, Peiqing Chen and Yuhan Wu.
         conference: "2024 IEEE 40th International Conference on Data Engineering (<b>ICDE '24</b>)."
         other: <a href="./papers/M4_ICDE24.pdf">[PDF]</a> <a href="https://github.com/M4Framework/M4">[Code]</a>
 
