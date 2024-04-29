@@ -38,11 +38,10 @@ career-profile:
     title: Biography
     summary: |
 
-      I am a CS Ph.D. student at University of Michigan, Ann Arbor, advised by Prof. <a href="https://web.eecs.umich.edu/~linmacse/">Lin Ma</a>. I have immersed myself in research for two years and studied widely in database and networking system, developing strong capacities in conducting research and writing high-quality papers.  
+      I am a CS Ph.D. student at University of Michigan, Ann Arbor, advised by Prof. <a href="https://web.eecs.umich.edu/~linmacse/">Lin Ma</a>. I have immersed myself in research for two years and studied widely in database and networking system.  
+
       I finished my Bachelor's degree in Computer Science and Technology at Peking University, where I worked on approximate algorithms in data streams and computer network systems with Prof. Tong Yang. I also finished my Bachelor's degree in Economics at Peking University.
 
-      # I am a Senior student in School of Computer Science at Peking University, advised by Prof. <a href="https://yangtonghome.github.io/">Tong Yang</a>. My research interests include approximate algorithms in data streams and computer network systems. 
-      # I will receive my bachelor degree in both Computer Science and Economics at Peking University in 2024. 
       
 # education:
 #     - degree: Ph.D. in Computer Science
