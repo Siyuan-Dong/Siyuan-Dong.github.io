@@ -38,7 +38,7 @@ career-profile:
     title: Biography
     summary: |
 
-      I am a CS Ph.D. student at the University of Michigan, Ann Arbor, advised by Prof. <a href="https://web.eecs.umich.edu/~linmacse/">Lin Ma</a>. My research lies at the intersection of machine learning and data systems. I currently work on learned query optimization across heterogeneous database systems, with an emphasis on building methods that are accurate, efficient, and reusable across different database engines. I also study automated optimization for lakehouse systems, including the joint selection and configuration of execution engines and table formats. More broadly, I am interested in intelligent and portable systems for data management.
+      I am a CS Ph.D. student at the University of Michigan, Ann Arbor, advised by Prof. <a href="https://web.eecs.umich.edu/~linmacse/">Lin Ma</a>. My research lies at the intersection of machine learning and data systems. I currently work on learned query optimization across heterogeneous database systems, with an emphasis on building methods that are accurate, efficient, and reusable across different database engines. I also study automated optimization for lakehouse systems, including the joint selection and configuration of execution engines and table formats. In addition, I explore how classic database index design can be revisited for LLM-based document analysis, such as hierarchical plain-text indexes inspired by the B+ tree that let LLMs answer questions over large documents with far fewer tokens. More broadly, I am interested in intelligent and portable systems for data management.
 
 
       I finished my Bachelor degree in Computer Science and Technology at Peking University, where I worked on approximate algorithms in data streams and computer network systems with Prof. <a href="https://yangtonghome.github.io/">Tong Yang</a>. I also finished my Bachelor degree in Economics at Peking University.
@@ -55,9 +55,20 @@ career-profile:
 
 publications:
     title: Publications
-    intro: <a href="https://scholar.google.com/citations?hl=en&user=AQpX-lEAAAAJ">Google Scholar</a> 
+    intro: <a href="https://scholar.google.com/citations?hl=en&user=fyRdzWsAAAAJ">Google Scholar</a> 
     # &nbsp; &nbsp; &nbsp; <a href="https://orcid.org/0000-0003-1551-7646">ORCID</a> &nbsp; &nbsp; &nbsp; <a href="https://dblp.org/pid/326/9040.html">DBLP</a> &nbsp; &nbsp; &nbsp; <a href="https://www.semanticscholar.org/author/Jiarui-Guo/2217656137">Sematic Scholar</a>
     papers:
+      - title: "Rethinking Document Indexing for LLM-based Analysis"
+        tag: True
+        authors: Donna Pham, Zhongwei Xu, <b>Siyuan Dong</b>, Haotian Gong, and Lin Ma.
+        conference: "2027 Conference on Innovative Data Systems Research (<b>CIDR '27</b>). To appear."
+
+      - title: "LakeHelm: Zero-Shot Lakehouse Advisor for Joint Engine-Format Selection and Configuration"
+        tag: True
+        authors: Zhongwei Xu, <b>Siyuan Dong</b>, Haotian Gong, Donna Pham, and Lin Ma.
+        conference: "Proceedings of the VLDB Endowment, Vol. 19, No. 8, 2026 (<b>VLDB '26</b>)."
+        other: <a href="https://www.vldb.org/pvldb/vol19/p1768-xu.pdf">[PDF]</a>
+
       - title: "M4: A Framework for Per-Flow Quantile Estimation"
         tag: True
         authors: <b>Siyuan Dong</b>, Zhuochen Fan, Tianyu Bai, Tong Yang, Hanyu Xue, Peiqing Chen and Yuhan Wu.
